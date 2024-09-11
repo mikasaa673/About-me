@@ -1,6 +1,5 @@
 # 💫 About Me:
-im currently front end development that includes html css and java script<br>im looking to collab with fellow learns to build projects together <br>
-
+I am currently focused on front-end development with experience in HTML, CSS, and JavaScript. I am also learning Data Structures and Algorithms (DSA) to enhance my problem-solving skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthikeya-senapathi/) 
